@@ -14,6 +14,6 @@ Explorar fundamentos de LLMs y GenAI con foco en:
 ## Relación con Data Governance
 Este repositorio busca entender cómo los modelos de lenguaje interactúan con los datos y qué desafíos de gobierno surgen en el ciclo de vida de un modelo.
 
-## Norte profesional y referencia 🎯
+## Norte profesional y referencia
 Para asegurar que este aprendizaje sea aplicable a entornos productivos de alta exigencia, tomo como referencia los estándares técnicos y desafíos del rol de **GenAI Engineer** de Ualá. 
 Mi meta es alinear estos conocimientos con las necesidades reales del ecosistema Fintech, donde la seguridad, la escalabilidad y la gobernanza del dato son críticas.
