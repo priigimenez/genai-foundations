@@ -32,11 +32,14 @@ La importancia de entender qué hay 'bajo el capó' para poder gobernarlo.
    a. Causas (foco en Data Quality): datos de entrenamiento sucios o ruidosos, falta de contexto suficiente en el prompt, o falta de restricciones (constraints) en el modelo.
 
 **Relación con Data Governance**
-Concepto Técnico / Desafío de Gobierno
-Modelos Fundacionales / Propiedad intelectual: ¿con qué datos se entrenó? ¿Tengo permiso para usarlos?
-Prompt Design / Seguridad de datos: ¿estamos enviando PII (información sensible) en los prompts?
-Training Data / Calidad de datos: si el dataset es sesgado, el modelo será sesgado.
-Hallucinations / Veracidad y confianza: ¿cómo validamos que la respuesta es real antes de dársela, por ejemplo, a un cliente?
+
+| Concepto técnico  | Desafío de gobierno |
+| ------------- | ------------- |
+| Modelos fundacionales  | Propiedad intelectual: ¿con qué datos se entrenó? ¿Tengo permiso para usarlos? |
+| Prompt Design | Seguridad de datos: ¿estamos enviando PII (información sensible) en los prompts?  |
+| Training Data | Calidad de datos: si el dataset es sesgado, el modelo será sesgado. |
+| Hallucinations | Veracidad y confianza: ¿cómo validamos que la respuesta es real antes de dársela, por ejemplo, a un cliente? |
+
 
 *Próximos pasos*
 - Profundizar en técnicas de RAG para reducir alucinaciones usando datos gobernados.
