@@ -1,6 +1,7 @@
-(notitas de 'Introduction to Responsible AI' (Google Skiil Boost)
+(notitas de 'Introduction to Responsible AI' (Google Skills Boost)
 
-##La base del gobierno##
+**La base del gobierno**
+
 Porque no se trata solamente de la tecnología. Se trata de decisiones humanas, cuyas repercusiones presentes y futuras pueden exceder los resultados de un sólo análisis. 
 
 **Conceptos clave** 
@@ -9,12 +10,13 @@ Porque no se trata solamente de la tecnología. Se trata de decisiones humanas, 
 - Los pilares de Gobernanza:
       - Transparencia: ¿sabemos por qué el modelo dijo lo que dijo? 
       - Equidad (Fairness): evitar que el modelo 'discrimine' por sesgos presentes en los datos de entrenamiento.
-      - Rendiciónd de cuentas (Accountability): si el modelo falla, ¿quién se hace cargo?
+      - Rendición de cuentas (Accountability): si el modelo falla, ¿quién se hace cargo?
 
 La AI responsable no es un 'check' más al final de un proyecto. Es un proceso continuo, que empieza en el diseño y permanece en el monitoreo. 
 Porque sin confianza (Trust), no hay adopción del usuario. 
 
 **La parte un poco más técnica**
+
 La importancia de entender qué hay 'bajo el capó' para poder gobernarlo.
 
 1. El 'árbol genealógico'
@@ -26,7 +28,7 @@ La importancia de entender qué hay 'bajo el capó' para poder gobernarlo.
 2. La revolución de los Transformers (2018): esta arquitectura (Encoder/Decoder) permitió que la GenAI alcanzara niveles de desarrollo mayores. Permite que el modelo 'entienda' todo el contexto de una frase completa, y no sólo palabra por palabra.
 (La cuestión del contexto, o la contextualización, es fundamental). 
 
-3. Las alucionaciones, el gran riesgo: sucenden cuando el modelo 'inventa' con muchas seguridad cosas que no son ciertas o que no tienen sentido en el contexto determinado.
+3. Las alucinaciones, el gran riesgo: suceden cuando el modelo 'inventa' con muchas seguridad cosas que no son ciertas o que no tienen sentido en el contexto determinado.
    a. Causas (foco en Data Quality): datos de entrenamiento sucios o ruidosos, falta de contexto suficiente en el prompt, o falta de restricciones (constraints) en el modelo.
 
 **Relación con Data Governance**
