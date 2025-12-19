@@ -1,6 +1,6 @@
 (notitas de 'Introduction to Responsible AI' (Google Skiil Boost)
 
-##La base del gobierno
+##La base del gobierno##
 Porque no se trata solamente de la tecnología. Se trata de decisiones humanas, cuyas repercusiones presentes y futuras pueden exceder los resultados de un sólo análisis. 
 
 **Conceptos clave** 
