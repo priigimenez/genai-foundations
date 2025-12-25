@@ -28,6 +28,17 @@ Técnica que consiste en "anclar" las respuestas del modelo a un conjunto de dat
 
 ---
 
+## Arquitectura & Data Ingestion
+
+#### **Modularidad:** 
+Principio de diseño que consiste en dividir un sistema en partes independientes (módulos), donde cada una tiene una responsabilidad única. Esto facilita la escalabilidad, el mantenimiento y la reutilización de código (ej. separar la capa de seguridad de la capa de lógica de negocio). 
+
+#### **Web Scraping**: 
+Técnica de extracción de datos de sitios web de forma automatizada. En un entorno de producto, permite la captura de feedback público en tiempo real para alimentar tableros de control y sistemas de alerta temprana sobre la salud del producto. 
+
+#### **FastAPI**:
+Framework moderno y de alto rendimiento para construir APIs con Python. Es la herramienta estándar para desplegar modelos de IA como servicios web consumibles por otras aplicaciones, permitiendo una integración ágil en entornos productivos.
+
 ## Ética y Gobernanza
 
 #### **Privacy by Design**: 
