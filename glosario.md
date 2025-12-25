@@ -21,6 +21,10 @@ Parámetro que controla la aleatoriedad de la respuesta del modelo.
 * **Alta (0.7 - 1.0):** Respuestas creativas y variadas.
 #### **Model Right-sizing (Modelos "lite")**: 
 Práctica de elegir el modelo con la capacidad justa para una tarea específica, optimizando latencia y costos (FinOps) sin sacrificar la calidad necesaria.
+#### **Triage Inteligente (AI-Powered Triage):** 
+Proceso automatizado de revisión, categorización y priorización de entradas (como reclamos o reseñas) mediante Procesamiento de Lenguaje Natural (NLP), cuyo objetivo es identificar de forma inmediata casos críticos para su derivación estratégica, optimizando el tiempo de respuesta y la eficiencia operativa.
+#### **Prompt Grounding (anclaje):** 
+Técnica que consiste en "anclar" las respuestas del modelo a un conjunto de datos específico o reglas de negocio (como un manual de categorías), reduciendo significativamente las alucinaciones y asegurando que la IA se mantenga dentro de los límites del dominio permitido.
 
 ---
 
